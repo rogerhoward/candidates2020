@@ -2,6 +2,9 @@
 
 ## Amy Klobuchar
 ## Andrew Yang
+### Pitch
+https://www.youtube.com/watch?v=grciW239bp0
+
 ## Bernie Sanders
 ## Beto O’Rourke
 ## Bill de Blasio
