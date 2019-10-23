@@ -1,5 +1,5 @@
 ---
-layout: candidate
+# layout: candidate
 title:  "Andrew Yang"
 date:   2019-06-21 06:35:43 -0400
 categories: candidates
